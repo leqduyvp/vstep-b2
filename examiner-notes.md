@@ -22,6 +22,8 @@ Needs more developed ideas.
 
 Needs fewer fillers.
 
+Comparatives and modifiers are improving, but subject-verb agreement still slips in spontaneous speech.
+
 ### Listening
 
 Good detail retention.
@@ -40,3 +42,4 @@ The objective is polishing English toward natural B2 usage.
 - Precision issues are more important than basic comprehension issues.
 - Collocation choice is the most visible source of lost marks.
 - Speaking answers need stronger expansion, not simpler language.
+- Technology comparisons can be handled well when the verb forms are controlled.

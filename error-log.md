@@ -4,6 +4,10 @@
 
 - ❌ much more easier  
   ✅ much easier
+- ❌ it save much more time  
+  ✅ it saves much more time
+- ❌ The new laptop model is come with  
+  ✅ The new laptop model comes with
 - ❌ throughout the history  
   ✅ throughout history
 - ❌ provide helps  
@@ -17,6 +21,11 @@
 
 - ❌ At the first glance  
   ✅ At first glance
+
+## Word Forms
+
+- ❌ Nowaday  
+  ✅ Nowadays
 
 ## Collocations
 

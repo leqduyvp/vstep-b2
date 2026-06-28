@@ -1,6 +1,6 @@
 # Daily Session Template
 
-Use this template to generate a new study session.
+Use this template to generate a new study session after the planner has selected the next day.
 
 ## Inputs
 
@@ -35,3 +35,8 @@ Use this template to generate a new study session.
 - Session notes in `sessions/day-XX.md`
 - Summary report in `reports/day-XX-report.md`
 - Updates to long-term memory files when needed
+
+## Planner Link
+
+- The session planner should read `ROADMAP.md` and `progress.md` first.
+- The planner should then fill this template with the target day, theme, and weaknesses.

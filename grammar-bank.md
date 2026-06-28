@@ -6,6 +6,7 @@ Only grammar topics that have already appeared should be tracked here.
 | --- | --- | --- | --- |
 | Articles | learning | At first glance, the issue seems minor. | At the first glance |
 | Comparative structures | learning | much easier | much more easier |
+| Subject-verb agreement | learning | it saves time | it save much more time |
 | Word forms | learning | outdated | outdate |
 | Verb patterns | learning | tackle a problem | tackle on |
 | Countable vs uncountable nouns | learning | provide help | provide helps |

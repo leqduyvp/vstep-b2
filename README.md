@@ -2,39 +2,22 @@
 
 This repository is the single source of truth for a VSTEP B2 preparation course. It is designed to be read by humans and future language models alike, with all learning history, corrections, and guidance stored as plain Markdown.
 
-## Workflow
+## Daily Operating Loop
 
-Every study session follows the same sequence:
+Use the repository in this order every day:
 
-Grammar
+1. Check `progress.md` to find the latest completed day and the next day to run.
+2. Read `ROADMAP.md` to get the target theme and skill focus for that day.
+3. Use `prompts/session-planner-template.md` to generate the practice-session prompt.
+4. Feed the generated prompt to Gemini and conduct the session.
+5. Save the raw lesson in `sessions/day-XX.md` and the summary in `reports/day-XX-report.md`.
+6. Update the long-term memory files and then advance `progress.md`.
 
-↓
+## Session Sequence
 
-Reading
+When the practice session is running, keep this order:
 
-↓
-
-Vocabulary
-
-↓
-
-Writing
-
-↓
-
-Speaking
-
-↓
-
-(optional) Listening
-
-↓
-
-Evaluation
-
-↓
-
-Memory Update
+Grammar → Reading → Vocabulary → Writing → Speaking → optional Listening → Evaluation → Memory Update
 
 ## Repository Rules
 
@@ -42,6 +25,7 @@ Memory Update
 - Prefer short, direct edits so Git diffs stay readable.
 - Do not duplicate facts across files unless a file is the intended long-term record for that type of fact.
 - Push every correction into one of the long-term memory files: `error-log.md`, `vocabulary-bank.md`, `grammar-bank.md`, or `examiner-notes.md`.
+- Use `ROADMAP.md` as the planned path, `progress.md` as the tracker, and `prompts/session-planner-template.md` as the prompt generator.
 - Use session files for raw lesson history and report files for compact summaries.
 
 ## File Roles
@@ -62,7 +46,7 @@ Memory Update
 
 1. Read the learner profile and the latest progress entry.
 2. Review the roadmap to pick the next study target.
-3. Run the session using the prompt templates.
+3. Generate the session prompt from the planner template.
 4. Save the raw interaction in `sessions/day-XX.md`.
 5. Save the summary in `reports/day-XX-report.md`.
 6. Update the long-term memory files with any corrected mistakes, vocabulary, or grammar notes.

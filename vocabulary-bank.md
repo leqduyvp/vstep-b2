@@ -5,7 +5,13 @@
 | Word | Meaning | Example | Status |
 | --- | --- | --- | --- |
 | efficient | producing good results without wasting time or resources | Efficient systems reduce manual work. | learning |
+| convenient | useful, suitable, and easy to use | A smartphone is convenient for daily use. | learning |
+| reliable | able to be trusted or depended on | A reliable laptop is important for work. | learning |
+| user-friendly | easy for people to use | The app has a user-friendly interface. | learning |
+| practical | useful and sensible in real situations | A laptop is more practical for editing spreadsheets. | learning |
 | maintainable | easy to keep working well and improve over time | The codebase should remain maintainable. | new |
+| affordable | not too expensive | Smartphones are often more affordable than laptops. | new |
+| advanced | using modern methods or technology | Advanced tools can improve productivity. | new |
 | automate | make a process happen automatically | We automate repetitive tasks to save time. | learning |
 
 ## Education
