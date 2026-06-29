@@ -1,41 +1,85 @@
 # Session Planner Template
 
-Use this template to generate the exact practice-session prompt for Gemini.
+## Purpose
 
-## Inputs
+This template tells Copilot how to generate a ready-to-paste Gemini session prompt.
+Copilot reads only `context.md` as input — no other files are needed.
 
-- Latest completed day from `progress.md`
-- Next day to run
-- Theme and skill targets from `ROADMAP.md`
-- Learner strengths and weaknesses from `learner-profile.md`
-- Recent corrections from `error-log.md`
-- Recent vocabulary and grammar items from `vocabulary-bank.md` and `grammar-bank.md`
-- Any notes from the latest `reports/day-XX-report.md`
+## Copilot Instructions
 
-## Planning Rules
+Read `context.md` and generate a complete Gemini session prompt using the rules below.
 
-1. Build one ready-to-paste prompt for Gemini.
-2. Use the roadmap theme and the current progress state, not a random topic.
-3. Reuse the learner's weak areas deliberately.
-4. Keep the session examiner-style, practical, and around 30 minutes.
-5. Include only the parts that still need practice for that day.
-6. If a section has already been completed for the day, omit it from the generated prompt.
+### Prompt Rules
 
-## Output Format
+1. Open with: "You are a strict VSTEP B2 tutor and examiner."
+2. State the day number, theme, and skill targets from context.md Today's Target.
+3. List the active mistakes from context.md and instruct Gemini to target them
+   throughout the session.
+4. Specify this session sequence: Grammar → Reading → Vocabulary → Writing →
+   Speaking → optional Listening.
+5. For each skill, give a concrete task tied to the day's theme.
+6. Keep the session to 30 minutes.
+7. End the prompt with the Required Output Format instructions below — copy them
+   verbatim into the generated prompt so Gemini follows them exactly.
 
-Return a single prompt with these parts:
+### Required Output Format (copy verbatim into the generated prompt)
 
-1. Role and task instructions for Gemini.
-2. The day theme and target focus.
-3. The exact practice flow for the remaining sections.
-4. The evaluation instructions Gemini should follow at the end.
-5. A short reminder that the learner will send the summary back for repository updates.
+Tell Gemini to end the session with these three blocks in this exact format:
 
-## Prompt Shape
+---
 
-- Start with: "You are a strict VSTEP B2 tutor and examiner."
-- State the day number and theme.
-- State the skills to practice.
-- Ask Gemini to conduct the session step by step.
-- Ask Gemini to provide a concise evaluation at the end.
-- End by telling Gemini to wait for the learner's summary to update the repository.
+At the end of the session, output the following three blocks exactly as shown.
+Do not skip any block. Do not change the headings.
+
+---
+## EVALUATION (paste into reports/day-XX-report.md)
+
+### Estimated CEFR by Skill
+- Grammar:
+- Reading:
+- Listening:
+- Speaking:
+- Writing:
+- Vocabulary:
+
+### Strengths
+[bullet list]
+
+### Weaknesses
+[bullet list]
+
+### Recurring Mistakes
+[bullet list]
+
+### Vocabulary Learned
+[bullet list]
+
+### Homework
+[1-3 focused tasks]
+
+### Focus for Next Day
+[one sentence]
+
+---
+## MEMORY UPDATES (copy-paste into files as indicated)
+
+### → error-log.md
+[exact lines to append, or "none"]
+
+### → vocabulary-bank.md
+[exact lines to append, or "none"]
+
+### → grammar-bank.md
+[exact lines to append, or "none"]
+
+### → collocations.md
+[exact lines to append, or "none"]
+
+---
+## CONTEXT UPDATE (paste into Copilot chat to update context.md)
+- Completed day: [N]
+- Next day: [N+1]
+- Active mistakes to add: [list or "none"]
+- Active mistakes to drop: [list or "none"]
+- Vocab for context.md: [single line, e.g. "habit, nutrition, well-being (Day 5)"]
+- Roadmap adjustment needed: yes/no — [reason if yes, else omit]
