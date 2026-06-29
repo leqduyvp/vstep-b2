@@ -45,3 +45,7 @@
 | productivity | the rate of producing useful work | Better tools improve productivity. | learning |
 | collaborate | work with other people toward a goal | Teams collaborate across time zones. | new |
 | prioritize | decide what is most important first | I prioritize urgent issues during the day. | learning |
+
+wellness (n., uncountable) - the state of being in good health, especially as an actively pursued goal.
+
+immune system (n., countable) - the body's defense system against infectious organisms.

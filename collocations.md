@@ -12,3 +12,10 @@
 - technological advancement
 - keep knowledge up to date
 - perform a job effectively
+get enough sleep
+
+boost immunity
+
+build healthy habits
+
+focused at work

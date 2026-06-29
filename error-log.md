@@ -42,3 +42,7 @@
 
 - ❌ give the human resources  
   ✅ free up human resources
+
+Day 5: Mixed up general activity "exercise" (uncountable) with specific routines "exercises" (countable plural).
+
+Day 5: Mid-sentence tense slip (switched to past tense 'was' while describing present benefits of a habit).

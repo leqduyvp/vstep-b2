@@ -18,3 +18,7 @@ Only grammar topics that have already appeared should be tracked here.
 - Treat this file as a grammar memory, not a full textbook.
 - Add a topic only after it appears in a session or correction.
 - Keep examples short and aligned with current mistakes.
+
+Exercise (uncountable): Physical activity in general (e.g., "I need more exercise.").
+
+Exercises (countable plural): Specific, individual movements or tasks (e.g., "Do these three stretching exercises.").
