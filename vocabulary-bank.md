@@ -49,3 +49,7 @@
 wellness (n., uncountable) - the state of being in good health, especially as an actively pursued goal.
 
 immune system (n., countable) - the body's defense system against infectious organisms.
+
+**dietary intake** (n., uncountable) - the amount of food and drink consumed daily.
+
+**physical activity** (n., uncountable) - bodily movement produced by skeletal muscles.

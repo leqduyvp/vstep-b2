@@ -46,3 +46,14 @@
 Day 5: Mixed up general activity "exercise" (uncountable) with specific routines "exercises" (countable plural).
 
 Day 5: Mid-sentence tense slip (switched to past tense 'was' while describing present benefits of a habit).
+
+## Day 6 — Collocations & Countability
+
+- ❌ do regular exercise  
+  ✅ get/take regular exercise
+- ❌ get some advice  
+  ✅ seek advice
+- ❌ from doctors  
+  ✅ from a doctor
+- ❌ having good sleep  
+  ✅ getting quality sleep

@@ -1,9 +1,9 @@
 # Context
 
 ## Status
-- Completed: Day 5
-- Next: Day 6
-- Phase: Foundation complete — moving to Health and Lifestyle
+- Completed: Day 6
+- Next: Day 7
+- Phase: Health and Lifestyle
 
 ## Today's Target
 - Theme: Health and lifestyle
@@ -21,9 +21,10 @@
 - Comparative modifier accuracy
 - Mid-sentence tense switches (present/past)
 - Countable/uncountable noun alignment with general concepts (e.g. exercise)
+- Incorrect preposition use in collocations (e.g. "crucial in" instead of "crucial for")
 
 ## Recent Vocabulary
-- habit, nutrition, wellness, immune system (Day 5)
+- habit, nutrition, wellness, immune system, balanced diet, regular exercise, mental health, physical activity, dietary intake (Day 6)
 
 ## Roadmap Notes
 - No adjustments. On track.

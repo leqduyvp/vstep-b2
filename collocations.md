@@ -19,3 +19,9 @@ boost immunity
 build healthy habits
 
 focused at work
+
+crucial *for*
+
+*seek* advice
+
+*stay* hydrated
