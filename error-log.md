@@ -57,3 +57,8 @@ Day 5: Mid-sentence tense slip (switched to past tense 'was' while describing pr
   ✅ from a doctor
 - ❌ having good sleep  
   ✅ getting quality sleep
+
+## Day 7 — Uncountable Nouns & Gerund Subjects
+
+- Use an uncountable noun without an indefinite article (e.g., *advice*, not *an advice*).
+- Gerund subjects take singular verb forms (e.g., *practicing increases*, not *practicing increase*).

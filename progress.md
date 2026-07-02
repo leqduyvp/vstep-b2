@@ -6,21 +6,23 @@
 - Day 2
 - Day 3
 - Day 4
+- Day 5
+- Day 6
+- Day 7
 
 ## Next Up
 
-- Day 5
+- Day 8
 
 ## Current Phase
 
-Foundation completed.
+Workplace communication.
 
 ## Current Focus
 
-- Health and lifestyle
-- Natural collocations
-- Writing
-- Speaking idea development
+- Modal verbs for obligation and advice
+- Professional writing
+- Polite suggestions in speaking
 
 ## Tracker Notes
 

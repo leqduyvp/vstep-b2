@@ -2,29 +2,57 @@
 
 ## Purpose
 
-This template tells Copilot how to generate a ready-to-paste Gemini session prompt.
-Copilot reads only `context.md` as input — no other files are needed.
+This template tells Copilot how to generate two ready-to-use session prompts per day:
+one for **Claude Sonnet** (text skills) and one for **Gemini Live** (voice skills).
 
 ## Copilot Instructions
 
-Read `context.md` and generate a complete Gemini session prompt using the rules below.
+Read **both** `context.md` and `ROADMAP.md` before generating anything.
 
-### Prompt Rules
+**Critical: Theme and grammar focus must come from ROADMAP.md for the current day number,
+not from context.md's Today's Target section.** context.md's Today's Target can fall out of
+sync; ROADMAP.md is always the authoritative source for what each day covers.
+
+Generate two prompts as separate labelled blocks.
+
+---
+
+### PROMPT 1 — Claude Sonnet (Grammar / Reading / Vocabulary / Writing)
+
+#### Prompt Rules
 
 1. Open with: "You are a strict VSTEP B2 tutor and examiner."
-2. State the day number, theme, and skill targets from context.md Today's Target.
-3. List the active mistakes from context.md and instruct Gemini to target them
+2. State the day number, theme, and skill targets looked up from ROADMAP.md.
+3. List the active mistakes from context.md and instruct Claude to target them
    throughout the session.
-4. Specify this session sequence: Grammar → Reading → Vocabulary → Writing →
-   Speaking → optional Listening.
-5. For each skill, give a concrete task tied to the day's theme.
-6. Keep the session to 30 minutes.
+4. Specify this session sequence: Grammar → Reading → Vocabulary → Writing.
+5. For each skill, give a concrete task tied to the day's theme from ROADMAP.md.
+6. Keep this portion to 23 minutes.
 7. End the prompt with the Required Output Format instructions below — copy them
-   verbatim into the generated prompt so Gemini follows them exactly.
+   verbatim so Claude follows them exactly.
 
-### Required Output Format (copy verbatim into the generated prompt)
+---
 
-Tell Gemini to end the session with these three blocks in this exact format:
+### PROMPT 2 — Gemini Live (Speaking / Listening)
+
+#### Prompt Rules
+
+1. Open with: "You are a strict VSTEP B2 speaking examiner. This is a voice session."
+2. State the day number and theme.
+3. Remind the examiner to monitor and flag the active mistakes from context.md during
+   the spoken responses.
+4. Speaking task: one 4–6 sentence spoken response prompt tied to the day's theme.
+5. Optional Listening task: describe a short scenario and ask the learner to respond
+   verbally (e.g. predict advice, summarise what was said).
+6. Keep the total to 7 minutes.
+7. End with a brief spoken feedback prompt: ask Gemini Live to note the top 2 errors
+   heard and 2 collocations the learner used well.
+
+---
+
+### Required Output Format for Prompt 1 (copy verbatim into the Claude Sonnet prompt)
+
+Tell Claude to end the session with these three blocks in this exact format:
 
 ---
 

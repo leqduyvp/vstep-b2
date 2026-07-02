@@ -24,3 +24,5 @@ Exercise (uncountable): Physical activity in general (e.g., "I need more exercis
 Exercises (countable plural): Specific, individual movements or tasks (e.g., "Do these three stretching exercises.").
 
 General health concepts like *exercise*, *equipment*, *progress*, *advice*, and *intake* are uncountable. They never take an "-s" or "a/an."
+
+Day 7: Nouns like *advice*, *information*, and *research* are uncountable — no plural form, no *a/an* (e.g., ✅ *some advice*, ❌ *an advice*).

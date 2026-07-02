@@ -29,6 +29,10 @@
 | wellbeing | the state of being healthy and comfortable | Sleep affects mental wellbeing. | new |
 | balanced | including different parts in the right amount | A balanced diet supports energy levels. | learning |
 | recovery | the process of getting healthy again | Recovery takes time after illness. | new |
+| detracts from | to reduce or diminish the value or effect of something | Stress detracts from overall wellbeing. | new |
+| sedentary | tending to spend much time seated; somewhat inactive | A sedentary lifestyle increases health risks. | new |
+| incremental | increasing by small regular amounts | Incremental adjustments lead to lasting change. | new |
+| malnutrition | lack of proper nutrition | Malnutrition is a serious global issue. | new |
 
 ## Environment
 

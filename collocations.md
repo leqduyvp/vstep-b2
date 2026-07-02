@@ -25,3 +25,6 @@ crucial *for*
 *seek* advice
 
 *stay* hydrated
+maintain a balanced diet
+boost the immune system
+cut down on processed foods
